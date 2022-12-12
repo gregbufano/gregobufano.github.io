@@ -1,0 +1,28 @@
+body{
+    background-color: grey;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxkkNGq0GHCvjm1Lzvzt4Z3v8WSm4pqEk5-A&usqp=CAU);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family:Arial, Helvetica, sans-serif;
+    color: aqua;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align:center
+}
+p{
+    font-family: verdana;
+    font-size: 20px;
+}
+a{
+    color: crimson;
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+h4{
+    color: aqua;
+}
